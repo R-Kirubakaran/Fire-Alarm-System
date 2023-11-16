@@ -23,5 +23,4 @@ Safety is paramount in designing residential and commercial buildings to prevent
 ### Objectives
 
 The flame sensor module, equipped with a photodiode for light detection and an op-amp for sensitivity control, aims to simplify fire detection. Upon detecting a fire, it provides a HIGH signal. Arduino interprets this signal, triggering alerts through a buzzer and LED.
-## project 
-![Fire Alarm System][Github/Fire alarm project Diagram.jpg]
+
